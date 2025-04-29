@@ -28,15 +28,14 @@ Não é necessário instalar bibliotecas ou frameworks.
 ### 🔨 Guia de instalação
 
 * Clone este repositório:
-
+```
 git clone https://github.com/seu-usuario/price-comparison.git
-
+```
 * Navegue até a pasta do projeto:
-
+```
 cd price-comparison
-
+```
 * Abra o arquivo index.html em seu navegador
-
 
 ## ✨ Funcionalidades
 
@@ -55,6 +54,7 @@ cd price-comparison
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 * ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 
 * Linkedin:
